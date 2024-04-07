@@ -1,0 +1,1 @@
+# This is my first repository and I am uploading it directly from the VS Code Editor from my Laptop.
